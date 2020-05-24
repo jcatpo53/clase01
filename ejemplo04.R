@@ -50,5 +50,6 @@ vec7<-rchisq(n = 12,df = 8)
 seq()
 rep()
 
+#como tarea deben de aprender las funciones  rep y seq#
 
 
