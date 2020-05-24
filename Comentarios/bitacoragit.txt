@@ -1,0 +1,19 @@
+1: instalar git
+git-scm.com
+
+luego abrimos el git bash
+
+tener el cuenta el hecho de tener un repositorio local y en algun momneto optar por subir nuestro codigo gihut
+
+32
+
+github:
+usuario:jcatpo53
+constraseña: jonathan5384250
+
+
+#gitash
+#abierto el gitbush, navegamos hasta nueestro directorio de trabajo(creado en #rstudio)
+
+#ejecuto pwd:consulto cual es el direcctorio actual
+#cd desktop/clase0105: modifico mi direcotio de trabajo
